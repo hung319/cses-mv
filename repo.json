@@ -1,0 +1,8 @@
+{
+    "name": "ZeroNos Ext",
+    "description": "Cloudstream extension Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://github.com/hung319/cses-mv/raw/refs/heads/builds/plugins.json"
+    ]
+}
