@@ -1,0 +1,224 @@
+[
+    {
+        "iconUrl": "https://cdn.jsdelivr.net/gh/hung319/h4rs@main/avatar/six.webp",
+        "jarFileSize": 22,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hung319/cses-mv",
+        "status": 0,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "#Free Repo",
+        "jarUrl": "https://raw.githubusercontent.com/hung319/cses-mv/builds/#Free Repo.jar",
+        "description": "Free Repo From SIX",
+        "url": "https://raw.githubusercontent.com/hung319/cses-mv/builds/#Free Repo.cs3",
+        "name": "#Free Repo"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=http://animehay.page&sz=256",
+        "jarFileSize": 122929,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hung319/cses-mv",
+        "fileSize": 33587,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "Animehay",
+        "jarUrl": "https://raw.githubusercontent.com/hung319/cses-mv/builds/Animehay.jar",
+        "url": "https://raw.githubusercontent.com/hung319/cses-mv/builds/Animehay.cs3",
+        "name": "Animehay"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=http://anime6.site&sz=256",
+        "jarFileSize": 180230,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hung319/cses-mv",
+        "fileSize": 37878,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA",
+            "Cartoons",
+            "TvSeries"
+        ],
+        "version": 3,
+        "internalName": "Animet",
+        "jarUrl": "https://raw.githubusercontent.com/hung319/cses-mv/builds/Animet.jar",
+        "url": "https://raw.githubusercontent.com/hung319/cses-mv/builds/Animet.cs3",
+        "name": "Animet"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://animevietsub.lol&sz=256",
+        "jarFileSize": 135005,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hung319/cses-mv",
+        "fileSize": 30807,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA",
+            "Cartoon",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "Animevietsub",
+        "jarUrl": "https://raw.githubusercontent.com/hung319/cses-mv/builds/Animevietsub.jar",
+        "url": "https://raw.githubusercontent.com/hung319/cses-mv/builds/Animevietsub.cs3",
+        "name": "Animevietsub"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=http://boctem.com&sz=256",
+        "jarFileSize": 82095,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hung319/cses-mv",
+        "fileSize": 23959,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA",
+            "Cartoons"
+        ],
+        "version": 1,
+        "internalName": "Boctem",
+        "jarUrl": "https://raw.githubusercontent.com/hung319/cses-mv/builds/Boctem.jar",
+        "url": "https://raw.githubusercontent.com/hung319/cses-mv/builds/Boctem.cs3",
+        "name": "Boctem"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=http://hhninja.top&sz=256",
+        "jarFileSize": 66396,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hung319/cses-mv",
+        "fileSize": 17677,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "version": 2,
+        "internalName": "Hhninja",
+        "jarUrl": "https://raw.githubusercontent.com/hung319/cses-mv/builds/Hhninja.jar",
+        "url": "https://raw.githubusercontent.com/hung319/cses-mv/builds/Hhninja.cs3",
+        "name": "Hhninja"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=http://hoathinh3d.name&sz=256",
+        "jarFileSize": 64845,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hung319/cses-mv",
+        "fileSize": 20560,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "version": 1,
+        "internalName": "HoatHinh3D",
+        "jarUrl": "https://raw.githubusercontent.com/hung319/cses-mv/builds/HoatHinh3D.jar",
+        "url": "https://raw.githubusercontent.com/hung319/cses-mv/builds/HoatHinh3D.cs3",
+        "name": "HoatHinh3D"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://ophim16.cc&sz=256",
+        "jarFileSize": 93073,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hung319/cses-mv",
+        "fileSize": 19385,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Anime",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Ophim",
+        "jarUrl": "https://raw.githubusercontent.com/hung319/cses-mv/builds/Ophim.jar",
+        "url": "https://raw.githubusercontent.com/hung319/cses-mv/builds/Ophim.cs3",
+        "name": "Ophim"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=http://phimmoiplus.net&sz=256",
+        "jarFileSize": 67007,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hung319/cses-mv",
+        "fileSize": 18235,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Anime",
+            "TvSeries",
+            "AnimeMovie"
+        ],
+        "version": 1,
+        "internalName": "PhimMoiPlus",
+        "jarUrl": "https://raw.githubusercontent.com/hung319/cses-mv/builds/PhimMoiPlus.jar",
+        "url": "https://raw.githubusercontent.com/hung319/cses-mv/builds/PhimMoiPlus.cs3",
+        "name": "PhimMoiPlus"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://vietsubtv.run&sz=256",
+        "jarFileSize": 64631,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hung319/cses-mv",
+        "fileSize": 18546,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Anime",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "VietsubTV",
+        "jarUrl": "https://raw.githubusercontent.com/hung319/cses-mv/builds/VietsubTV.jar",
+        "url": "https://raw.githubusercontent.com/hung319/cses-mv/builds/VietsubTV.cs3",
+        "name": "VietsubTV"
+    }
+]
